@@ -1,6 +1,6 @@
 {
   "name": "kc-rarg",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "[nodejs] Read cli arguments.",
   "main": "index.js",
   "repository": {
